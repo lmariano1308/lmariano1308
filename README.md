@@ -1,9 +1,9 @@
 ### Olá! Eu sou o Lucas Mariano e seja bem-vindo ao meu repositório.
 
 - 👨🏽‍💻 Atualmente sou desenvolvedor Front-End
-- 📘 Atualmente estou estudando React.JS/ Vue.JS
+- 📘 Atualmente estou estudando para aprimorar meus conhecimentos em React.JS e React Native
 - 📩 Entre em contato comigo pelo email: lucasmariano2000@Hotmail.com 
-- 🤔 Estou em busca do meu primeiro estágio na área
+- 🤔 Trabalho com Desenvolvimento Web e Mobile na Mindtech Tecnologia
 - 💬 Nerd assumido, apaixonado por tecnologia, tentando encontrar o caminho que possa me levar fazer a diferença.
 - ⚡ Saiba mais de mim entrando em contato pelos links abaixo 
 
