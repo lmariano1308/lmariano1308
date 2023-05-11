@@ -4,6 +4,7 @@
 - 📘 Atualmente estou aprimorando meu conhecimento em Next.JS, Desenvolvendo uma aplicação Fullstack com integração a banco de dados.
 - 📩 Entre em contato comigo pelo email: lucasmariano2000@Hotmail.com 
 - 🤔 Trabalho com Desenvolvimento Web e Mobile na Mindtech Tecnologia com Next.JS e React Native.
+- 🧑🏽‍❤️‍👩🏼 Casado e apaixonado, Amanda te amo!
 - 👼🏽 Papai de primeira viagem, Miguel te amo!
 - 💬 Nerd assumido, apaixonado por tecnologia, tentando encontrar o caminho que possa me levar fazer a diferença.
 - ⚡ Saiba mais de mim entrando em contato pelos links abaixo 
