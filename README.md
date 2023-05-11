@@ -4,6 +4,7 @@
 - 📘 Atualmente estou aprimorando meu conhecimento em Next.JS, Desenvolvendo uma aplicação Fullstack com integração a banco de dados.
 - 📩 Entre em contato comigo pelo email: lucasmariano2000@Hotmail.com 
 - 🤔 Trabalho com Desenvolvimento Web e Mobile na Mindtech Tecnologia com Next.JS e React Native.
+- 👼🏽 Papai de primeira viagem, Miguel te amo!
 - 💬 Nerd assumido, apaixonado por tecnologia, tentando encontrar o caminho que possa me levar fazer a diferença.
 - ⚡ Saiba mais de mim entrando em contato pelos links abaixo 
 
@@ -14,6 +15,9 @@
 </div>
 
 <div style="display: inline_block"><br>
+  <img align="center" alt="Lucas-Next" height="30" width="40" src="https://www.svgrepo.com/show/354113/nextjs-icon.svg">
+  <img align="center" alt="Lucas-Next" height="30" width="40" src="https://www.svgrepo.com/show/493719/react-javascript-js-framework-facebook.svg">
+  <img align="center" alt="Lucas-Next" height="30" width="40" src="https://www.svgrepo.com/show/374146/typescript-official.svg">
   <img align="center" alt="Lucas-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Lucas-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Lucas-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
