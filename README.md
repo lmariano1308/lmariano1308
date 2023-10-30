@@ -1,9 +1,9 @@
 ### Olá! Eu sou o Lucas Mariano e seja bem-vindo ao meu repositório.
 
-- 👨🏽‍💻 Atualmente sou desenvolvedor Front-End na Mindtech Tecnologia nas Linguagens React.JS, Next.JS e React Native
+- 👨🏽‍💻 Atualmente sou desenvolvedor Front-End na NVPC com React.Js e TypeScript
 - 📘 Atualmente estou aprimorando meu conhecimento em Next.JS, Desenvolvendo uma aplicação Fullstack com integração a banco de dados.
 - 📩 Entre em contato comigo pelo email: lucasmariano2000@Hotmail.com 
-- 🤔 Trabalho com Desenvolvimento Web e Mobile na Mindtech Tecnologia com Next.JS e React Native.
+- 🤔 Trabalho com Desenvolvimento Web na NVPC com React.Js.
 - 🧑🏽‍❤️‍👩🏼 Casado e apaixonado, Amanda te amo!
 - 👼🏽 Papai de primeira viagem, Miguel te amo!
 - 💬 Nerd assumido, apaixonado por tecnologia, tentando encontrar o caminho que possa me levar fazer a diferença.
