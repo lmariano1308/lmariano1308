@@ -11,7 +11,7 @@
 
 <div align="center">
   <a href="https://linktr.ee/lmariano1308">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lmariano1308&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
+<!--   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lmariano1308&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/> -->
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lmariano1308&layout=compact&langs_count=7&theme=midnight-purple"/>
 </div>
 
