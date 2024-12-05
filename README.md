@@ -1,10 +1,10 @@
 ### Olá! Eu sou o Lucas Mariano e seja bem-vindo ao meu repositório.
 
-- 👨🏽‍💻 Atualmente sou desenvolvedor Full-stack e Tech Lead na Vertical CWB.
-- 📘 Atualmente estou aprimorando meu conhecimento em DevOps, Aprendendo a lidar melhor com hospedagens e servidores.
+- 👨🏽‍💻 Atualmente sou Desenvolvedor Full-stack Pleno na ztrax.
+- 📘 Atualmente estou aprimorando meu conhecimento em AWS, MongoDB e RabbitMQ.
 - 📩 Entre em contato comigo pelo email: lucasmariano2000@Hotmail.com 
-- 🤔 Trabalho com Desenvolvimento Fullstack e Tech Lead na Vertical CWB.
-- 👼🏽 Papai de primeira viagem, Miguel te amo!
+- 🤔 Trabalho com Desenvolvimento Fullstack na ztrax, e como freela nas horas vagas.
+- 👼🏽 Pai do Miguel e da Manu.
 - 💬 Nerd assumido, apaixonado por tecnologia, tentando encontrar o caminho que possa me levar fazer a diferença.
 - ⚡ Saiba mais de mim entrando em contato pelos links abaixo 
 
