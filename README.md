@@ -1,12 +1,12 @@
-### Olá! Eu sou o Lucas Mariano e seja bem-vindo ao meu repositório.
+### Hello! I'm Lucas Mariano, and welcome to my repository.
 
-- 👨🏽‍💻 Atualmente sou Desenvolvedor Full-stack Pleno na ztrax.
-- 📘 Atualmente estou aprimorando meu conhecimento em AWS, MongoDB e RabbitMQ.
-- 📩 Entre em contato comigo pelo email: lucasmariano2000@Hotmail.com 
-- 🤔 Trabalho com Desenvolvimento Fullstack na ztrax, e como freela nas horas vagas.
-- 👼🏽 Pai do Miguel e da Manu.
-- 💬 Nerd assumido, apaixonado por tecnologia, tentando encontrar o caminho que possa me levar fazer a diferença.
-- ⚡ Saiba mais de mim entrando em contato pelos links abaixo 
+- 👨🏽‍💻 I am currently a Mid-Level Fullstack Analyst at ztrax.
+- 📘 I am currently improving my knowledge in AWS, MongoDB, and Redis.
+- 📩 Contact me via email: lucasmariano2000@Hotmail.com
+- 🤔 Relevant fact: I was already top 100 in the world in Call of Duty.
+- 👼🏽 Father of Miguel and Manu.
+- 💬 A proud nerd, passionate about technology, striving to find the path to make a difference.
+- ⚡ Learn more about me by reaching out through the links below.
 
 <div align="center">
   <a href="https://linktr.ee/lmariano1308">
